@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Fake News and Misinformation Detection System**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development, Gnerative AI**
 
 - 👯 I’m looking to collaborate on **Fake News and Misinformation Detection System**
 
