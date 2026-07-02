@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rishabhsindhwal23.srhu.ac.in@gamil.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aQogInDMrOhk1PYT9Dy_tJz9OxgX1064/view?usp=drive_link](https://drive.google.com/file/d/1aQogInDMrOhk1PYT9Dy_tJz9OxgX1064/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1aQogInDMrOhk1PYT9Dy_tJz9OxgX1064/view?usp=drive_link](https://drive.google.com/file/d/1rZViLKzYFhPXtg6V32nhp47uxFXAZlYw/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm learning**
 
