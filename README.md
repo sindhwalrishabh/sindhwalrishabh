@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rishabh Sindhwal</h1>
 <h3 align="center">A passionate Software developer Engineer</h3>
 
-- 🔭 I’m currently working on **Fake News and Misinformation Detection System**
+- 🔭 I’m currently working on **An Explainable Multistage DeepLearning Framework for plant disease diagnosis and agriculture DSS**
 
-- 🌱 I’m currently learning **Web Development, Generative AI**
+- 🌱 I’m currently learning **Generative AI,Machine Learning,DeepLearning**
 
-- 👯 I’m looking to collaborate on **Fake News and Misinformation Detection System**
+- 👯 I’m looking to collaborate on **An Explainable Multistage DeepLearning Framework for plant disease diagnosis and agriculture DSS**
 
 - 💬 Ask me about **Web Technologies,Artificial Intelligence,Machine learning**
 
